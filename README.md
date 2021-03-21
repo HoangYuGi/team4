@@ -1,14 +1,14 @@
-# PICNIC-GAMES-eproject
+# DRYFRUITS-eproject
 
-eProject T1.2011.M0- eProject-Group_6 Batch no:
+eProject T1.2011.M0- eProject-Group_4 Batch no:
 
 T1.2011.M0 
 
 CENTER NAME:ACE_HCMC-2-FPT
 
-Project-title: PICNIC GAMES
+Project-title: MARU DRY FRUITS
 
-========> GROUP 6 <========
+========> GROUP 4 <========
 
 3 collaborators:
 
